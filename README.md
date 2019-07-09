@@ -1,7 +1,7 @@
 Infinite Loop
 ==============
 
-A simple python that keeps repeating why until the cndition is met.
+A simple python program that keeps repeating why until the cndition is met.
 
 *Python Version 3.0+*
 
